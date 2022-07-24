@@ -18,6 +18,8 @@ Not: XMRiG geliştiricisine; "TÜRKÇE VERSİYONU" sürümü hakkında "support@
 bilgi verildi. Ancak herhangi bir yanıt verilmedi. XMRiG geliştiricileri bana her zaman ulaşabilir.
 İsterlerse yapmış olduğum "XMRiG TÜRKÇE VERSİYONU" kaldırma hakkına sahiptirler.
 
+Madenciliği etkileyecek herhangi bir değişiklik yapılmadı. Sadece "TÜRKÇE YAPILDI VE BAĞIŞ İptal Edilmiştir"
+
 Türkçe yama hazırlayan iletişim : (mail: mtchannel@outlook.com.tr)
 
 Xmrig geliştirici iletişim      : (mail: support@xmrig.com)
@@ -41,6 +43,8 @@ Because to prevent malicious people from playing and sharing files on my behalf.
 Note: To the XMRiG developer; About the "TURKISH VERSION" version by mail to "support@xmrig.com"
 information has been given. However, no response was provided. XMRiG developers can always reach me.
 If they want, they have the right to remove the "XMRiG TURKISH VERSION" that I have made.
+
+No changes have been made to affect mining. Only "TURKISH has been made and DONATION has been cancelled"
 
 Turkish patcher contact : (mail: mtchannel@outlook.com.tr)
 
