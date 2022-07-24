@@ -33,6 +33,7 @@ Türkçe yama hazırlayan iletişim : (mail: mtchannel@outlook.com.tr)
 --------------------------------------------------------------------------------------------------------------------
 
 TÜRKÇE KARAKTER SORUNU OLANLAR İÇİN
+-----------------------------------
 
 Türkçe karakterler düzgün görünmüyorsa; yapılacak şeyler
 
