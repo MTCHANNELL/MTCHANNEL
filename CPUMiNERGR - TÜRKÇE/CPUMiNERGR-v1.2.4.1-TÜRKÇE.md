@@ -29,6 +29,7 @@ Türkçe yama hazırlayan iletişim : (mail: mtchannel@outlook.com.tr)
 --------------------------------------------------------------------------------------------------------------------
 
 TÜRKÇE KARAKTER SORUNU OLANLAR İÇİN
+-----------------------------------
 
 Türkçe karakterler düzgün görünmüyorsa; yapılacak şeyler
 
@@ -38,7 +39,7 @@ Türkçe karakterler düzgün görünmüyorsa; yapılacak şeyler
 
 chcp 65001
 
-cpuminer-avx.exe
+xmrig.exe
 
 Bu işlemlerden sonra türkçe karakterler düzgün gözükecektir.
 
