@@ -39,7 +39,7 @@ Türkçe karakterler düzgün görünmüyorsa; yapılacak şeyler
 
 chcp 65001
 
-xmrig.exe
+cpuminer-avx.exe
 
 Bu işlemlerden sonra türkçe karakterler düzgün gözükecektir.
 
