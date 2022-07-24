@@ -1,0 +1,1 @@
+LÜTFEN WiKi'Yi OKUYUNUZ
