@@ -19,7 +19,9 @@ bilgi verildi. Ancak herhangi bir yanıt verilmedi. XMRiG geliştiricileri bana 
 İsterlerse yapmış olduğum "XMRiG TÜRKÇE VERSİYONU" kaldırma hakkına sahiptirler.
 
 Türkçe yama hazırlayan iletişim : (mail: mtchannel@outlook.com.tr)
+
 Xmrig geliştirici iletişim      : (mail: support@xmrig.com)
+
 ------------------------------------------------------------------------------------------------------------------
 
 THE CHANGES THAT HAVE BEEN MADE (google translate)
@@ -41,4 +43,6 @@ information has been given. However, no response was provided. XMRiG developers 
 If they want, they have the right to remove the "XMRiG TURKISH VERSION" that I have made.
 
 Turkish patcher contact : (mail: mtchannel@outlook.com.tr)
+
 Xmrig developer contact : (mail: support@xmrig.com)
+
