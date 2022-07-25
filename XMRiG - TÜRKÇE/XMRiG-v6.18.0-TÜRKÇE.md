@@ -21,8 +21,9 @@ NOT : Türkçe olarak değiştirilmiş kaynak dosyaları paylaşılmayacaktır.
 
 Çünkü kötü niyetliler,dosyalar üzerinde oynayıp benim adıma paylaşım yapmalarını önlemek için.
 
-GENEL NOT-1: XMRiG geliştiricisine; "TÜRKÇE VERSİYONU" sürümü hakkında "support@xmrig.com" adresine e-posta yoluyla bilgi verildi. Ancak herhangi bir yanıt daha gelmedi. XMRiG geliştiricileri bana her zaman ulaşabilir. İsterlerse yapmış olduğum
-"XMRiG TÜRKÇE VERSİYONU" kaldırtma hakkına sahiptirler.
+GENEL NOT-1: XMRiG ile ilgili "TÜRKÇE DİL YAMASI" dışındaki tüm sorularınızı buraya yazmayınız. 
+
+Bu sayfada sadece "TÜRKÇE DİL" hakkında destek vermekteyim.
 
 GENEL NOT-2: Hatalı gördüğünüz çeviri varsa lütfen resmini çekip hatayı yuvarlak içine alıp mail adresime gönderiniz.
 
